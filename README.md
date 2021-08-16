@@ -17,5 +17,5 @@
 ### 🗓 일정
 | |gyheo|choymoon|eye1228|eodudsla10|jhj960918|
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1주차<br>(08.12 ~ 08.19) | [기능 개발-42586](https://programmers.co.kr/learn/courses/30/lessons/42586) | [다리를 지나는 트럭-42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | [소수 찾기-42839](https://programmers.co.kr/learn/courses/30/lessons/42839) |[가장 큰 수-42746](https://programmers.co.kr/learn/courses/30/lessons/42746)]| 5 |
+| 1주차<br>(08.12 ~ 08.19) | [기능 개발-42586](https://programmers.co.kr/learn/courses/30/lessons/42586) | [다리를 지나는 트럭-42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | [소수 찾기-42839](https://programmers.co.kr/learn/courses/30/lessons/42839) |[가장 큰 수-42746](https://programmers.co.kr/learn/courses/30/lessons/42746)]|[H-Index-42747](https://programmers.co.kr/learn/courses/30/lessons/42747) |
 
