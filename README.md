@@ -17,5 +17,5 @@
 ### 🗓 일정
 | |gyheo|choymoon|eye1228|eodudsla10|jhj960918|
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1주차<br>(08.12 ~ 08.19) | [기능 개발-42586](https://programmers.co.kr/learn/courses/30/lessons/42586) | [다리를 지나는 트럭-42583](https://programmers.co.kr/learn/courses/30/lessons/42583) | [소수 찾기-42839](https://programmers.co.kr/learn/courses/30/lessons/42839) |[가장 큰 수-42746](https://programmers.co.kr/learn/courses/30/lessons/42746)]|[H-Index-42747](https://programmers.co.kr/learn/courses/30/lessons/42747) |
-
+| 1주차<br>(08.19) | [기능 개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) |[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |
+| 2주차<br>(08.26) | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) |[k번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[전화번호목록](https://programmers.co.kr/learn/courses/30/lessons/42577)  [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|
