@@ -1,10 +1,10 @@
-package programmers.sort;
+package programmers.highscorekit.sort.가장큰수;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class Sort2 {
+public class PRO_42746_jhj960918 {
 	static ArrayList<String> list;
 
 	public static void main(String[] args) {

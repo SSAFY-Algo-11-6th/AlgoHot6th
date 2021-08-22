@@ -1,13 +1,12 @@
-package programmers.sort;
+package programmers.highscorekit.sort.H_Index;
 
 import java.util.Arrays;
 
-public class PRO_H_Index {
+public class PRO_42747_jhj960918 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] citations = { 3, 0, 6, 1, 5 };
-	
 		System.out.println(solution(citations));
 	}
 
