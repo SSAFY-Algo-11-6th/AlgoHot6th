@@ -1,12 +1,12 @@
-package com.programmers;
+package com.week1.gyheo;
 
 import java.util.*;
 
 public class PRO42586 {
     static Stack<Integer> stack = new Stack<>();
     static final int GOAL = 100;
-    static int[] progresses = {93, 30, 55};
-    static int[] speeds = {1, 30, 5};
+    static int[] progresses = { 93, 30, 55 };
+    static int[] speeds = { 1, 30, 5 };
 
     public static void main(String[] args) {
         int[] res = solution(progresses, speeds);
@@ -34,7 +34,7 @@ public class PRO42586 {
             }
 
             // stack.peek()을 사용했을 때 TC 오류 발생
-            while (!stack.isEmpty() &&  days.size() != 0 && stack.get(0) >= days.get(0)) {
+            while (!stack.isEmpty() && days.size() != 0 && stack.get(0) >= days.get(0)) {
                 stack.push(days.get(0));
                 days.remove(0);
                 releaseCnt++;

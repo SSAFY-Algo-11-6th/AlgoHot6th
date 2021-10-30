@@ -1,9 +1,10 @@
-package com.programmers;
+package com.week1.gyheo;
 
 import java.util.Arrays;
 
 public class PRO42747 {
-    static int[] citations = {3, 0, 6, 1, 5};
+    static int[] citations = { 3, 0, 6, 1, 5 };
+
     public static void main(String[] args) {
         System.out.println(solution(citations));
     }
