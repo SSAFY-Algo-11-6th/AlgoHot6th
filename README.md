@@ -3,12 +3,13 @@
 
 ### 🎈 코드 풀이
 - [프로그래머스](https://programmers.co.kr/)
+- [백준](https://boj.kr)
 
 ### ☕ 스터디 진행 방식
-- 매주 각자 한문제씩 선정(매주 금요일까지 문제 업로드)
-- 총 5문제 풀이 업로드(Programmers에 정한 문제 폴더 업로드 해놓기)
+- 매주 각자 한문제씩 선정 (매주 금요일까지 문제 업로드)
+- 총 5문제 풀이 업로드 (Programmers, Baekjoon에서 정한 문제 폴더 업로드 해놓기)
 - 문제 업로드 방식 (풀 문제안에 각자 폴더 만들어서 코드 업로드)
-- 일주일에 1회(목요일 8시30분) 원격 회의로 코드 리뷰 진행
+- 일주일에 1회 (목요일 8시30분) 원격 회의로 코드 리뷰 진행
 
 ### 👨‍👩‍👧‍👦 Contributors
 | [gyheo](https://github.com/gyheo) | [choymoon](https://github.com/choymoon) | [eye1228](https://github.com/eye1228) | [eodudsla10](https://github.com/eodudsla10) | [jhj960918](https://github.com/jhj960918)|
@@ -25,3 +26,4 @@
 | 6주차<br>(10.07) |[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862?language=java) | [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861) | [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [탈출](https://www.acmicpc.net/problem/3055)  | [로봇청소기](https://www.acmicpc.net/problem/14503) |
 | 7주차<br>(10.14) |[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485?language=java) |[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)| [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) |[공주님을 구해라!](https://www.acmicpc.net/problem/17836) | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|
 | 8주차<br>(10.28) |[유기농 배추](https://www.acmicpc.net/problem/1012) | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)  | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |[연구소2](https://www.acmicpc.net/problem/17141)  |[거리두기확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)  |
+| 9주차<br>(11.04) |[스타트와 링크](https://www.acmicpc.net/problem/14889) | | | | |
