@@ -3,7 +3,7 @@ package com.week1.gyheo;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class PRO42746 {
+public class Pro_42746_gyheo {
     static int[] numbers = { 3, 30, 34, 5, 9 };
 
     public static void main(String[] args) {

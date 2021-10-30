@@ -2,7 +2,7 @@ package com.week1.gyheo;
 
 import java.util.Arrays;
 
-public class PRO42747 {
+public class Pro_42747_gyheo {
     static int[] citations = { 3, 0, 6, 1, 5 };
 
     public static void main(String[] args) {

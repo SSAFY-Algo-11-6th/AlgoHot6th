@@ -2,7 +2,7 @@ package com.week1.gyheo;
 
 import java.util.*;
 
-public class PRO42586 {
+public class Pro_42586_gyheo {
     static Stack<Integer> stack = new Stack<>();
     static final int GOAL = 100;
     static int[] progresses = { 93, 30, 55 };
